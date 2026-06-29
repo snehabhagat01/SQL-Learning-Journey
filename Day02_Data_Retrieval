@@ -1,0 +1,39 @@
+# Day 2 - Data Retrieval
+
+## Objective
+Learn how to retrieve, filter, and organize data using SQL queries.
+
+## Topics Covered
+- SELECT
+- DISTINCT
+- WHERE
+- Comparison Operators
+- Logical Operators (AND, OR, NOT)
+- BETWEEN
+- IN
+
+## Dataset
+Employee Management System
+
+## Files
+- day02_data_retrieval.sql
+
+## Practice Performed
+
+- Retrieved all records from a table.
+- Selected specific columns.
+- Retrieved unique values.
+- Filtered data using different conditions.
+- Combined multiple conditions using logical operators.
+- Queried records within a specified range.
+- Retrieved records matching multiple values.
+
+## Key Learnings
+
+- Learned how to retrieve required information from a database.
+- Understood the importance of filtering data efficiently.
+- Practiced writing readable SQL queries using different operators.
+- Improved confidence in querying relational databases.
+
+## Reflection
+Today's practice helped me understand how SQL is used to search and filter data efficiently. These concepts are essential for performing data analysis and form the basis of more advanced SQL queries.
